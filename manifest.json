@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Budget Tracker",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "$ tracker",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "description": "a free tracker that doesnt connect to banks"
+}
